@@ -5,7 +5,10 @@
 using namespace std;
 
 
-
+int menu ()
+{
+  cout << "Hello";
+}
 
 
 int main ()
